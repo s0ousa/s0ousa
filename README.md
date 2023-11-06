@@ -1,4 +1,4 @@
-<h1>Hi, i'm Luis 🙆 </h1>
+<h1 align="center">Hi, i'm Luis 🙆 </h1>
 
 ### 🎯🛠 learning and specializing in
 <div>
