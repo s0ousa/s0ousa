@@ -3,7 +3,7 @@
 - 👨‍💻 I'm a web developer and programming student.
 - 🚀 I like creating applications that solve problems in a simple way and I love sharing what I learn with people.
 - 🌍 I live in Salvador city 🇧🇷
-- ✉️ Contact me at las.sousa@outlook.com or
+- ✉️ Contact me at las.sousa@outlook.com
 
 ## 🛠 learning and specializing in
 
