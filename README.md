@@ -1,12 +1,11 @@
-## Hey, what's up? I'm Luis 🙆
+## 🙆 Hey, what's up? I'm Luis 
 
 - 👨‍💻 I'm a web developer and programming student.
 - 🚀 I like creating applications that solve problems in a simple way and I love sharing what I learn with people.
 - 🌍 I live in Salvador city 🇧🇷
-- ✉️ Contact me at las.sousa@outlook.com
+- ✉️ Contact me at las.sousa@outlook.com or
 
-
-## 🎯🛠 learning and specializing in
+## 🛠 learning and specializing in
 
   <img align="left" alt="JavaScript" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="left" alt="TypeScript" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -36,9 +35,13 @@
     </td>
   </tr>
 </table> 
- 
-## Connect: <a href="https://linkedin.com/in/luis-andre-sousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thicode" height="30" width="40" /></a>
 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luis-andre-sousa">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&style=for-the-badge" />
+  </a>
+</p>
 
 <!--
 **s0ousa/s0ousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
