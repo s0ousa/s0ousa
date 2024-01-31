@@ -19,12 +19,13 @@
 <br>
 
 ---
-## 📊 some statistics...
-<!--<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=s0ousa&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
-  <img width="356" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0ousa&layout=compact&hide_border=true&theme=dark&show_icons=true&icon_color=5658dd">
-</div>
--->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luis-andre-sousa">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&style=for-the-badge" />
+  </a>
+</p>
+
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -37,11 +38,7 @@
 </table> 
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/luis-andre-sousa">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&style=for-the-badge" />
-  </a>
-</p>
+
 
 <!--
 **s0ousa/s0ousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,4 +53,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+----
+
 -->
