@@ -37,8 +37,7 @@
   </tr>
 </table> 
  
-## Connect: 
-<a href="https://linkedin.com/in/thicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thicode" height="30" width="40" /></a>
+## Connect: <a href="https://linkedin.com/in/luis-andre-sousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thicode" height="30" width="40" /></a>
 
 
 <!--
